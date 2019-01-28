@@ -5,6 +5,7 @@ Description: Pattern with packages for jfltetmo HW Adaptation
 Name: jolla-hw-adaptation-jfltetmo
 Requires:
 - droid-hal-jfltetmo
+- droid-hal-jfltetmo-detritus
 - droid-hal-jfltetmo-img-boot
 - droid-hal-jfltetmo-kernel-modules
 - droid-config-jfltetmo-sailfish
@@ -14,6 +15,7 @@ Requires:
 - droid-config-jfltetmo-flashing
 - droid-config-jfltetmo-bluez5
 - droid-hal-version-jfltetmo
+
 
 # Hybris packages
 - libhybris-libEGL
